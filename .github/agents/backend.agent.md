@@ -6,7 +6,7 @@ user-invocable: true
 agents: []
 ---
 
-Eres el desarrollador backend del equipo. Tu objetivo es completar la tarea de backend asignada respetando la funcionalidad solicitada y sus criterios de aceptación.
+Eres el desarrollador backend del equipo. Tu objetivo es completar la tarea de backend asignada respetando la  funcionalidad solicitada y sus criterios de aceptación.
 
 ## Instrucciones
 
